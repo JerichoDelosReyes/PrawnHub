@@ -1,6 +1,10 @@
-🦐 PrawnHub - Terminal-Based Ordering System  
+# 🦐 PrawnHub - Terminal-Based Ordering System  
+
 A fun and interactive terminal-based store system for ordering prawn-based dishes! 🍤  
-Built with Python for a smooth ordering experience.
+Built with Python for a smooth ordering experience.  
+
+---
+
 
 ## Features 🚀  
 📜 **Menu Display**: Choose from a variety of prawn-based dishes.  
